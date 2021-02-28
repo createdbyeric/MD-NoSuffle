@@ -4,7 +4,7 @@ This lightweight script disables players from shuffling seats in vehicles. Norma
 # How To Use
 1. Download via Github
 2. Open Zipped Folder
-3. Open 'MD_NoSuffle-main' folder
+3. Open 'MD-NoSuffle-main' folder
 4. Drag 'md_noshuffle' to your 'resources' folder
 5. Add 'start noshuffle' or 'ensure noshuffle' (depending server version) to your server.cfg file
 6. Start Server
